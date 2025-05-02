@@ -1,46 +1,70 @@
-# Getting Started with Create React App
+# KrishiGuide - Crop Recommendation System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+KrishiGuide is a responsive web application built with React.js and Tailwind CSS that helps farmers make informed decisions about which crops to plant based on different growing seasons.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Season Selection**: Choose between three main growing seasons - Kharif, Rabi, and Zaid
+- **Crop Recommendations**: View recommended crops for each season with detailed information
+- **Responsive Design**: Mobile-friendly interface with Tailwind CSS
+- **Dark Mode**: Toggle between light and dark themes
+- **Animations**: Smooth transitions and interactions using Framer Motion
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Prerequisites
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Node.js (v14 or higher)
+- npm or yarn
 
-### `npm test`
+### Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone this repository
+   ```
+   git clone https://github.com/yourusername/krishiguide.git
+   ```
 
-### `npm run build`
+2. Navigate to the project directory
+   ```
+   cd krishiguide
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Install dependencies
+   ```
+   npm install
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. Start the development server
+   ```
+   npm start
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. Open your browser and visit `http://localhost:3000`
 
-### `npm run eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. When you first open the application, you'll see the Home page introducing KrishiGuide.
+2. Click on "Crop Guide" to view crop recommendations.
+3. Select a growing season (Kharif, Rabi, or Zaid) using the selector tabs.
+4. Browse through the list of recommended crops for the selected season.
+5. Each crop card displays information about:
+   - Ideal soil and climate conditions
+   - Water requirements
+   - Growth duration
+6. Toggle between light and dark mode using the button in the navigation bar.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Technologies Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- React.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
+This project is licensed under the MIT License.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Acknowledgments
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Images sourced from Unsplash
+- Icons from Heroicons
