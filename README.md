@@ -60,11 +60,3 @@ KrishiGuide is a responsive web application built with React.js and Tailwind CSS
 - Tailwind CSS
 - Framer Motion
 
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- Images sourced from Unsplash
-- Icons from Heroicons
