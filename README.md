@@ -4,11 +4,11 @@ KrishiGuide is a responsive web application built with React.js and Tailwind CSS
 
 ## Features
 
-- **Season Selection**: Choose between three main growing seasons - Kharif, Rabi, and Zaid
-- **Crop Recommendations**: View recommended crops for each season with detailed information
-- **Responsive Design**: Mobile-friendly interface with Tailwind CSS
-- **Dark Mode**: Toggle between light and dark themes
-- **Animations**: Smooth transitions and interactions using Framer Motion
+- **Season Selection**: Choose between three main growing seasons - Kharif, Rabi, and Zaid.
+- **Crop Recommendations**: View recommended crops for each season with detailed information.
+- **Responsive Design**: Mobile-friendly interface with Tailwind CSS.
+- **Dark Mode**: Toggle between light and dark themes.
+- **Animations**: Smooth transitions and interactions using Framer Motion.
 
 ## Getting Started
 
