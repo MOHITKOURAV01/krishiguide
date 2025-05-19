@@ -12,7 +12,7 @@ KrishiGuide is a responsive web application built with React.js and Tailwind CSS
 
 ## Getting Started...
 
-### Prerequisites
+### Prerequisites...
 
 - Node.js (v14 or higher)
 - npm or yarn
