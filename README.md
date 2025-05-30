@@ -10,9 +10,9 @@ KrishiGuide is a responsive web application built with React.js and Tailwind CSS
 - **Dark Mode**: Toggle between light and dark themes.
 - **Animations**: Smooth transitions and interactions using Framer Motion.
 
-## Getting Started...
+## Getting Started.
 
-### Prerequisites...
+### Prerequisites.
 
 - Node.js (v14 or higher)
 - npm or yarn
