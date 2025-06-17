@@ -2,7 +2,7 @@
 
 KrishiGuide is a responsive web application built with React.js and Tailwind CSS that helps farmers make informed decisions about which crops to plant based on different growing seasons.
 
-# Features.
+# Features
 
 - **Season Selection**: Choose between three main growing seasons - Kharif, Rabi, and Zaid.
 - **Crop Recommendations**: View recommended crops for each season with detailed information.
