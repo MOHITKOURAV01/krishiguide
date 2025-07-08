@@ -1,4 +1,4 @@
-# KrishiGuide - Crop Recommendation System...
+# KrishiGuide - Crop Recommendation System.
 
 KrishiGuide is a responsive web application built with React.js and Tailwind CSS that helps farmers make informed decisions about which crops to plant based on different growing seasons.
 
